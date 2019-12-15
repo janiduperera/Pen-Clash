@@ -1,4 +1,4 @@
-#Pen Clash
+# Pen Clash
 
 >Prototype game done similar to the Ketchup Pen run game. 
 
@@ -14,3 +14,7 @@ https://assetstore.unity.com/packages/3d/characters/low-poly-office-pack-charact
 
 - Textures for UI from google search and from Prototype UI Pack
 https://assetstore.unity.com/packages/tools/gui/prototype-ui-pack-78383
+
+**Important**
+
+>Use Git LFS to clone this project.
